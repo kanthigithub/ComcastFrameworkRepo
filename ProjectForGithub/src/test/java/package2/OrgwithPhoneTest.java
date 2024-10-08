@@ -17,6 +17,7 @@ public class OrgwithPhoneTest {
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
 		
+		System.out.println("create org with phone test");
 	}
 	
 	@Test
