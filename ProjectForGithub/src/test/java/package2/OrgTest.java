@@ -6,7 +6,7 @@ public class OrgTest {
 	
 	@Test
 	public void method1() {
-		System.out.println("method1");
+		System.out.println("OrgTest method1");
 	}
 	
 

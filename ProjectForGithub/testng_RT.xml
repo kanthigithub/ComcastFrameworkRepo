@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+		<class name="package1.ContactTest"/>
       <class name="package2.OrgTest"/>
       <class name="package2.OrgwithPhoneTest"/>
     </classes>
