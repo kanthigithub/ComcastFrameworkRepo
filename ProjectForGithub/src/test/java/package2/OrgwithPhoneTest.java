@@ -25,5 +25,12 @@ public class OrgwithPhoneTest {
 		System.out.println("execute mofify orgtest");
 		
 	}
+	
+	@Test
+	public void deleteOrgTest() {
+		
+		System.out.println("execute delete orgtest");
+		
+	}
 
 }
